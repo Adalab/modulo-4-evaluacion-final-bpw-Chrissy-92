@@ -1,0 +1,34 @@
+{
+  "name": "evaluacion-final-chrissy",
+  "version": "1.0.0",
+  "description": "api-frases-famosas-de-los-simpsons",
+  "keywords": [
+    "express",
+    "cors",
+    "mysql",
+    "api"
+  ],
+  "homepage": "https://github.com/Adalab/modulo-4-evaluacion-final-bpw-Chrissy-92#readme",
+  "bugs": {
+    "url": "https://github.com/Adalab/modulo-4-evaluacion-final-bpw-Chrissy-92/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adalab/modulo-4-evaluacion-final-bpw-Chrissy-92.git"
+  },
+  "license": "ISC",
+  "author": "Cristina Pérez",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
