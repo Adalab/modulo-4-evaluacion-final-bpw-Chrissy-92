@@ -97,6 +97,6 @@ El servidor arrancará en: http://localhost:4000
 
 Asegúrate de tener creada la base de datos y las tablas necesarias antes de iniciar el servidor.
 
-## Author:
+## Author
 
 Cristina Angélica Pérez Huerta
